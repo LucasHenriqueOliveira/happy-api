@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasHenriqueOliveira/happy-api.git",
+  "author": "Lucas <lucashen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cors": "^2.8.8",
+    "@types/express": "^4.17.8",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
