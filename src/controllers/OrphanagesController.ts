@@ -3,7 +3,7 @@ import { getRepository } from 'typeorm';
 import * as Yup from 'yup';
 
 import Orphanage from '../models/Orphanage';
-import orphanages_view from '../view/orphanages_view';
+import orphanages_view from '../views/orphanages_view';
 
 export default {
 	async create(request: Request, response: Response) {
